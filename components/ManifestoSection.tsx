@@ -61,7 +61,7 @@ export default function ManifestoSection() {
             </div>
 
             <a
-              href="https://github.com"
+              href="https://github.com/Loktantra/bargad"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-6 py-3 bg-white text-gray-900 font-semibold rounded-full hover:bg-gray-100 transition-colors"
